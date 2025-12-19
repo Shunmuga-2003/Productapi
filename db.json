@@ -1,50 +1,52 @@
-[
-  {
-    "id": 1,
-    "name": "Airpods",
-    "price": 20000,
-    "image": "assets/Airpods.png"
-  },
-  {
-    "id": 2,
-    "name": "Royal Enfield",
-    "price": 200000,
-    "image": "assets/royal.jpg"
-  },
-  {
-    "id": 3,
-    "name": "iPhone 16",
-    "price": 90000,
-    "image": "assets/Iphone16pro.jpeg"
-  },
-  {
-    "id": 4,
-    "name": "MacBook",
-    "price": 200000,
-    "image": "assets/MackbookAir.jpg"
-  },
-  {
-    "id": 5,
-    "name": "Mrf VK18",
-    "price": 20000,
-    "image": "assets/MrfBat.jpg"
-  },
-  {
-    "id": 6,
-    "name": "Woodland",
-    "price": 2000,
-    "image": "assets/WoodlandShoes.jpg"
-  },
-  {
-    "id": 7,
-    "name": "LenovoLaptop",
-    "price": 40000,
-    "image": "assets/Lenovo.jpg"
-  },
-  {
-    "id": 8,
-    "name": "Allensolly Shirt",
-    "price": 2000,
-    "image": "assets/shirt1.jpg"
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Airpods",
+      "price": 20000,
+      "image": "assets/Airpods.png"
+    },
+    {
+        "id":2,
+        "name":"Royal Enfield",
+        "price":200000,
+        "image":"assets/royal.jpg"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 16",
+      "price": 90000,
+      "image": "assets/Iphone16pro.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "MacBook",
+      "price": 200000,
+      "image": "assets/MackbookAir.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mrf VK18",
+      "price": 20000,
+      "image": "assets/MrfBat.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Woodland",
+      "price": 2000,
+      "image": "assets/WoodlandShoes.jpg"
+    },
+    {
+      "id": 7,
+      "name": "LenovoLaptop",
+      "price": 40000,
+      "image": "assets/Lenovo.jpg" 
+    },
+    {
+      "id": 8,
+      "name": "Allensolly Shirt",
+      "price": 2000,
+      "image": "assets/shirt1.jpg"
+    }
+  ]
+}
