@@ -4,49 +4,49 @@
       "id": 1,
       "name": "Airpods",
       "price": 20000,
-      "image": "D:/HtmlCss/Internprojects/Project2/public/assets/Airpods.png"
+      "image": "assets/Airpods.png"
     },
     {
-      "id": 2,
-      "name": "Royal Enfield",
-      "price": 200000,
-      "image": "D:/HtmlCss/Internprojects/Project2/public/assets/royal.jpg"
+        "id":2,
+        "name":"Royal Enfield",
+        "price":200000,
+        "image":"assets/royal.jpg"
     },
     {
       "id": 3,
       "name": "iPhone 16",
       "price": 90000,
-      "image": "D:/HtmlCss/Internprojects/Project2/public/assets/Iphone16pro.jpeg"
+      "image": "assets/Iphone16pro.jpeg"
     },
     {
       "id": 4,
       "name": "MacBook",
       "price": 200000,
-      "image": "D:/HtmlCss/Internprojects/Project2/public/assets/MackbookAir.jpg"
+      "image": "assets/MackbookAir.jpg"
     },
     {
       "id": 5,
       "name": "Mrf VK18",
       "price": 20000,
-      "image": "D:/HtmlCss/Internprojects/Project2/public/assets/MrfBat.jpg"
+      "image": "assets/MrfBat.jpg"
     },
     {
       "id": 6,
       "name": "Woodland",
       "price": 2000,
-      "image": "D:/HtmlCss/Internprojects/Project2/public/assets/WoodlandShoes.jpg"
+      "image": "assets/WoodlandShoes.jpg"
     },
     {
       "id": 7,
       "name": "LenovoLaptop",
       "price": 40000,
-      "image": "D:/HtmlCss/Internprojects/Project2/public/assets/Lenovo.jpg"
+      "image": "assets/Lenovo.jpg" 
     },
     {
       "id": 8,
       "name": "Allensolly Shirt",
       "price": 2000,
-      "image": "D:/HtmlCss/Internprojects/Project2/public/assets/shirt1.jpg"
+      "image": "assets/shirt1.jpg"
     }
   ]
 }
